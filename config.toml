@@ -2,3 +2,11 @@ baseURL = "https://seagul12344.github.io/website/"
 languageCode = "en-us"
 title = "Pilot Seagul"
 theme = "ananke"
+
+[menu]
+  [[menu.main]]
+    name = "Discord"
+    url = "https://discord.gg/GrZncGAUKT"
+  [[menu.main]]
+    name = "YouTube"
+    url = "https://www.youtube.com/channel/UCEGfdbxuCaVelfNeIW9hXXg/videos"
