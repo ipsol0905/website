@@ -1,0 +1,11 @@
+{
+  "name": "pilotseagul",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Isaac",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "hugo": "^0.0.3"
+  }
+}
